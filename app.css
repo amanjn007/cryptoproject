@@ -1,0 +1,24 @@
+h1{
+    color: white;
+}
+
+h4{
+    color: White;
+    margin-bottom: 5em;
+    
+}
+
+body{
+    background-image: url(blockchain.jpg);
+}
+
+#resultTable{
+    background-color: white;
+     font-weight: 757;
+}
+.fix{
+    border:2px solid #fca311;
+    border-radius: 5px;
+    background-color:#fca311 ;
+    padding: 10px;
+}
